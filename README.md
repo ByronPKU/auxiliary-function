@@ -22,3 +22,9 @@ Crystal-field parameters used in these scripts were obtained from McPhase 5.2 (r
 ## License
 
 All rights reserved — see LICENSE. Code is provided for reference and reproducibility of the associated publication only; reuse or redistribution requires the author's permission.
+
+## Reference
+
+Biaoyan Hu, "Symmetry constraints on f-electron crystal-field eigenstates via auxiliary functions" (2026).
+
+Figures Fig. 1–6 above refer to the figures in this manuscript.
